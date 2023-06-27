@@ -1,2 +1,2 @@
 # werkweek
-dit is mijn reis van de weerkweek 4hv 2023
+Dit was onze werkweekreis van 2023
